@@ -1,0 +1,16 @@
+# Large datasets
+*.csv
+*.xlsx
+*.parquet
+
+# Keep small sample datasets
+!sample_postings.csv
+!sample_skills.csv
+
+# Java compiled files
+*.class
+*.jar
+
+# IDE
+.vscode/
+.idea/
